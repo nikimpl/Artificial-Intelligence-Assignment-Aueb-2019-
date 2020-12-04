@@ -1,0 +1,47 @@
+#1#Maths#A#4
+#2#Maths#B#4
+#3#Maths#C#6
+#4#Computers#A#2
+#5#Computers#B#2
+#6#Computers#C#2
+#7#Ancient Greek#A#3
+#8#Ancient Greek#B#3
+#9#Ancient Greek#C#3
+#10#Literature#A#2
+#11#Literature#B#2
+#12#Literature#C#2
+#13#Physics#A#3
+#14#Physics#B#3
+#15#Physics#C#3
+#16#English#A#2
+#17#English#B#2
+#18#English#C#2
+#19#Chemistry#A#2
+#20#Chemistry#B#2
+#21#Chemistry#C#2
+#22#PE#A#2
+#23#PE#B#2
+#24#PE#C#2
+#25#Religious Studies#A#2
+#26#Religious Studies#B#2
+#27#Religious Studies#C#2
+#28#History#A#2
+#29#History#B#2
+#30#History#C#2
+#31#French#A#2
+#32#French#B#2
+#33#French#C#2
+#34#Music#A#1
+#35#Music#B#1
+#36#Music#C#1
+#37#Arts and Crafts#A#1
+#38#Arts and Crafts#B#1
+#39#Arts and Crafts#C#1
+#40#Modern Greek#A#2
+#41#Modern Greek#B#2
+#42#Modern Greek#C#2
+#43#Project#A#2
+#44#Project#B#2
+#45#Project#C#1
+#46#Geography#A#2
+#47#Geography#B#2
